@@ -34,10 +34,10 @@ a name and email, with 2 buttons: "View USers","Submit"
  4.UserActvity has a ListView with a custom Adapter and view holder that inflates a custom view that has a name and email as textView
     *onCreate will load data from the DB store them in an arrayList that is passed to the customAdapter that will handle to population of the listView
     
-    NOTE: incase of anyting missed out refer to the project code as I have done my best to comment what is going on and the logic
-    NOTE: The app design not optimized for hdpi screen sizes as it is just a test and not a real world application
+ NOTE: incase of anyting missed out refer to the project code as I have done my best to comment what is going on and the logic
+ NOTE: The app design not optimized for hdpi screen sizes as it is just a test and not a real world application
     
-    To see the solution of App1 and Core check it out in my other REPO here : https://github.com/LennyKiano/App1
+ To see the solution of App1 and Core check it out in my other REPO here : https://github.com/LennyKiano/App1
     
-    //HAPPY CODDING
+  //HAPPY CODDING
     
