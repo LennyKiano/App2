@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="launcherTitle">APP2</string>
+    <string name="welcome_message">Welcome InterIntel. Please enter users below press the submit button when you are
+        done
+    </string>
+    <string name="user_info">User Info</string>
+    <string name="Name">Name</string>
+    <string name="email">Email</string>
+    <string name="submit">SUBMIT</string>
+    <string name="viewUsers">VIEW USERS</string>
+    <string name="info_message">The list is empty.Tap the back button or the add button bellow to add users and view
+        them here later
+    </string>
+    <string name="username">Username</string>
+    <string name="item_email">Email@Email.com</string>
+</resources>
